@@ -13,9 +13,9 @@
  
 ## About me
 
-- ?? Currently I work with Data analysis
-- ?? I’m currently learning Python
-- ?? I’m interested in aviation, astronomy, data and games
+- 🔭 Currently I work with Data analysis
+- 🌿 I’m currently learning Python
+- ✈ I’m interested in aviation, astronomy, data and games
 
 <!--
  ## ??? Tools 
